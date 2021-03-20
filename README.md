@@ -1,5 +1,11 @@
 # Events API
 
+## 💻 Índice
+- [Sobre o projeto](#-sobre-o-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Instalação e uso](#-instalaçao-e-uso)
+- [Funcionalidades e regras de negócio](#-funcionalidades-e-regras-de-negocio)
+
 ## 👀 Sobre o projeto
 
 Esse projeto foi planejado e desenvolvido com o intuito de praticar os conceitos de NodeJS aprendidos durante o curso **Ignite**. Na versão atual desse projeto, o foco foi o desenvolvimento de rotas e requisições HTTP utilizando o express.js, bem como a aplicação de middlewares.
