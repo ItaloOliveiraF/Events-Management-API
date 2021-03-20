@@ -3,8 +3,8 @@
 ## 💻 Índice
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Instalação e uso](#-instalaçao-e-uso)
-- [Funcionalidades e regras de negócio](#-funcionalidades-e-regras-de-negocio)
+- [Instalação e uso](#-instalação-e-uso)
+- [Funcionalidades e regras de negócio](#-funcionalidades-e-regras-de-negócio)
 
 ## 👀 Sobre o projeto
 
